@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Model (important)
+model/
+
+# Dataset (important)
+data/
+
+# Mac files
+.DS_Store
+
+# VS Code (optional)
+.vscode/
+
+# Logs
+*.log
